@@ -12,4 +12,7 @@ https://github.com/ageitgey/face_recognition
 Please check here: https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf
 
 # Install face_recognition module
-pips install face_recognition
+pip install face_recognition
+
+# Usage
+python verif.py image1 image2
